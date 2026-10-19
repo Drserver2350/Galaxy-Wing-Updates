@@ -1,8 +1,10 @@
 {
   "versionCode": 2,
   "versionName": "1.1.0",
+  "dexUrl": "https://raw.githubusercontent.com/Drserver2350/Galaxy-Wing-Updates/main/live_patch/classes.dex",
   "apkUrl": "https://github.com/Drserver2350/Galaxy-Wing-Updates/releases/download/v1.1.0/Galaxy_Wing.apk",
-  "changelogFa": "پکیج رسمی Galaxy Wing، اصلاح متن دکمه‌های مراحل و آشیانه، حذف زیرعنوان منو و ارتقای صفحه لودینگ و مدال‌های سه‌بعدی",
-  "changelogEn": "Official Galaxy Wing package, cleaner Stage & Hangar buttons, removed subtitle, live motion-graphic loading screen & 3D medals",
+  "pakSha256": "0946c8ec25fde28c9540423f0e8e1cca00d1bc6c8b5b825ef1df1b4ccbd0e56e",
+  "changelogFa": "سیستم آپدیت زنده فایل‌های اصلی بازی (Hot-Patch) بدون نیاز به نصب مجدد APK، حذف متن‌های اضافی دکمه‌ها و ارتقای لودینگ",
+  "changelogEn": "Live in-place file hot-patching (no APK reinstall needed), cleaner Stage & Hangar buttons, and live motion-graphic loading screen",
   "mandatory": false
 }
