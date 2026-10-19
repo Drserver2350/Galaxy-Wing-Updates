@@ -1,8 +1,8 @@
 {
-  "versionCode": 1,
-  "versionName": "1.0.0",
-  "apkUrl": "https://github.com/Drserver2350/Galaxy-Wing-Updates/releases/download/v1.0.0/FlappySpaceShooter_GalaxyWing.apk",
-  "changelogFa": "ارتقای صفحه لودینگ با موشن‌گرافیک زنده، مدال‌های سه‌بعدی جدید در گردونه شانس و سامانه آپدیت خودکار گیت‌هاب",
-  "changelogEn": "Upgraded live motion-graphic loading screen, 3D medals in Spin Wheel & GitHub Auto-Update system",
+  "versionCode": 2,
+  "versionName": "1.1.0",
+  "apkUrl": "https://github.com/Drserver2350/Galaxy-Wing-Updates/releases/download/v1.1.0/Galaxy_Wing.apk",
+  "changelogFa": "پکیج رسمی Galaxy Wing، اصلاح متن دکمه‌های مراحل و آشیانه، حذف زیرعنوان منو و ارتقای صفحه لودینگ و مدال‌های سه‌بعدی",
+  "changelogEn": "Official Galaxy Wing package, cleaner Stage & Hangar buttons, removed subtitle, live motion-graphic loading screen & 3D medals",
   "mandatory": false
 }
