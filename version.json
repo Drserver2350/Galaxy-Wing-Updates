@@ -1,10 +1,11 @@
 {
-  "versionCode": 3,
-  "versionName": "1.2.0",
+  "versionCode": 4,
+  "versionName": "1.3.0",
+  "iconApkMinVersion": 3,
   "dexUrl": "https://raw.githubusercontent.com/Drserver2350/Galaxy-Wing-Updates/main/live_patch/classes.dex",
-  "apkUrl": "https://github.com/Drserver2350/Galaxy-Wing-Updates/releases/download/v1.2.0/Galaxy_Wing.apk",
+  "apkUrl": "https://github.com/Drserver2350/Galaxy-Wing-Updates/releases/download/v1.3.0/Galaxy_Wing.apk",
   "pakSha256": "0946c8ec25fde28c9540423f0e8e1cca00d1bc6c8b5b825ef1df1b4ccbd0e56e",
-  "changelogFa": "آیکون اختصاصی جدید و فوق‌العاده خفن Galaxy Wing + آپدیت زنده فایل‌های بازی بدون نصب مجدد",
-  "changelogEn": "Brand-new custom sci-fi Galaxy Wing App Icon + instant live file hot-patching without APK reinstall",
-  "mandatory": false
+  "changelogFa": "بروزرسانی رسمی Galaxy Wing",
+  "changelogEn": "Official Galaxy Wing Update",
+  "mandatory": true
 }
